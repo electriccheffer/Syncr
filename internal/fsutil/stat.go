@@ -6,7 +6,6 @@ func SyncableFile(path string)(bool,error){
 	
 	fileInformation, err := os.Stat(path)		
 	if err != nil {
-		// TODO: log error 
 		return false,err
 	}
 	
