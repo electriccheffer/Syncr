@@ -1,3 +1,5 @@
-+ Project layout 
-+ Create main
 + Function for checking a file exists 
+	requirements: checks if a file is syncable. To be syncable the file must be 
+		      either a regular file or a directory. Must be able to handle 
+		      only absolute paths.
++ Logging
