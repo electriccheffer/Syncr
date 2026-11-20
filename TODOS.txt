@@ -1,0 +1,3 @@
++ Project layout 
++ Create main
++ Function for checking a file exists 
