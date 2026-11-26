@@ -1,2 +1,25 @@
-+ Logging
+Parse command args
+	- requirements:
+		[] add remote 
+Add Remote
+	-requirements: 
+Change Remote
+	- requriements: 
+Remove Remove: 
+	- requirements:  
+File descriptor passing via socket file
+	- requirements: 
+Compression 
+	- requirements: 
+Encryption
+	- requirements: 
+File Transfer via network
+	- requirements
+Server write file 
+	- requirements:
+Watch file for changes
+	- requirements: 
+Unwatch a file
+	-requriements:
+Dual updates
 	-requirements: 
